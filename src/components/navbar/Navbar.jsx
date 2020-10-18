@@ -10,7 +10,7 @@ const Navbar = () => {
             <a
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://google.com"
+                href="https://drive.google.com/file/d/16PRllTm81TJir_p7tJuTsV6bvB-D7GhU/view"
                 className="downloadapk"
             >
                 Download Apk

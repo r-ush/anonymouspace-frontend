@@ -9,14 +9,13 @@
     flex-direction: column;
     justify-content: center;
     text-align: center;
+    margin: 1rem 0;
 }
 
 .teamCardImg {
     height: 7rem;
-    width: auto;
-    /* position: relative;
-    bottom: 7rem; */
-    border-radius: 50%;
+    width: 7rem;
+    margin: 0 0 0 2rem;
 }
 
 .teamLinks {
