@@ -1,0 +1,35 @@
+.nav {
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 10rem;
+}
+
+.logo {
+    height: 7rem;
+    width: auto;
+}
+
+.downloadapk {
+    display: flex;
+    padding: 1rem;
+    background: #bb86fc;
+    box-shadow: 2px 6px 20px rgba(95, 207, 128, 0.25);
+    border-radius: 12px;
+    color: #000000;
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 600px) {
+    .nav {
+        padding: 1rem;
+    }
+    .logo {
+        height: 5rem;
+        width: auto;
+    }
+    .downloadapk {
+        padding: 0.5rem;
+    }
+}
