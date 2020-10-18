@@ -36,7 +36,7 @@ const Team = () => {
                 />
                 <TeamCard
                     name="Aarush Bhat"
-                    post="Backend Developer"
+                    post="Full Stack Developer"
                     img="https://r-ush.tech/static/media/main.e584639c.svg"
                     github="https://github.com/r-ush"
                     twitter="https://twitter.com/_r_ush_"
