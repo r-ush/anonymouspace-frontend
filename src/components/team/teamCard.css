@@ -1,0 +1,30 @@
+.teamCard {
+    color: #000000;
+    background: #f9f9f9;
+    box-shadow: 4.05486px 12.1646px 40.5486px rgba(95, 207, 128, 0.25);
+    border-radius: 24.3291px;
+    width: 15rem;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.teamCardImg {
+    height: 7rem;
+    width: auto;
+    /* position: relative;
+    bottom: 7rem; */
+    border-radius: 50%;
+}
+
+.teamLinks {
+    margin: 1rem 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.underline {
+    border-bottom: solid #bb86fc;
+}
