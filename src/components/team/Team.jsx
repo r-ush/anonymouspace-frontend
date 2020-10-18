@@ -37,14 +37,14 @@ const Team = () => {
                 <TeamCard
                     name="Aarush Bhat"
                     post="Full Stack Developer"
-                    img="https://r-ush.tech/static/media/main.e584639c.svg"
+                    img="https://avatars2.githubusercontent.com/u/54478821?s=460&u=875df72b781b5e6be8a62b24ec33949720115b51&v=4"
                     github="https://github.com/r-ush"
                     twitter="https://twitter.com/_r_ush_"
                 />
                 <TeamCard
                     name="Malvika Rajesh"
                     post="Designer"
-                    img="https://pbs.twimg.com/profile_images/1317769195744948224/olBks3HM_400x400.jpg"
+                    img="https://pbs.twimg.com/profile_images/1317806379730575360/XZDlV8iy_400x400.jpg"
                     github="https://github.com/MalvikaRajesh"
                     twitter="https://twitter.com/malvika_rajeshk"
                 />
