@@ -79,9 +79,6 @@ Licensed under MIT License :  https://opensource.org/licenses/MIT
 	Made with :heart: by Team AnonSpace
 </p>
 
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/609ac42d-6d10-41b1-bc94-df483ae4ffd5/deploy-status)](https://app.netlify.com/sites/anonspace/deploys)
-
 ## Available Scripts
 
 In the project directory, you can run:
