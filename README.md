@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/609ac42d-6d10-41b1-bc94-df483ae4ffd5/deploy-status)](https://app.netlify.com/sites/anonspace/deploys)
 
 <br>
 <h1 align="center">AnonSpace</h1>
